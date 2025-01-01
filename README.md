@@ -27,7 +27,8 @@ By using this report, business managers can identify and address customers whose
 
 **FULL JOIN** for ensuring comprehensive data coverage.
 
-###Table Management:
+### Table Management:
+
 **CREATE TABLE** for structuring data.
 
 **TEMPORARY TABLES** for intermediate calculations.
