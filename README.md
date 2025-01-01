@@ -22,7 +22,8 @@ By using this report, business managers can identify and address customers whose
 
 ##  🛠️Tools and Techniques
 -The following SQL techniques and constructs were utilized to achieve the project objectives:
-###Joins:
+
+### Joins:
 **LEFT JOIN** for combining datasets.
 
 **FULL JOIN** for ensuring comprehensive data coverage.
