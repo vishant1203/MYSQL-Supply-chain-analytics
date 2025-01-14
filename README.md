@@ -1,7 +1,6 @@
 
-📦Inventory management and Forecast accuracy analysis using SQL
+#📦Inventory management and Forecast accuracy analysis using SQL
 
-Nov 2024 - Dec 2024Nov 2024 - Dec 2024
 📌PROJECT OVERVIEW:
 Project aim for helping supply chain business managers to know customer wise forecast accuracy on monthly basis so that they can manage their customers well and help to increase revenue of company(Atliq Hardware), at the same time save operational cost in inventory management.
 
